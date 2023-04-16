@@ -1,6 +1,6 @@
 ## Olá, my friends 🤟
 
-- 🌱 Eu estou aprendento Python
+- 🌱 Eu estou aprendendo Python
 
 <!--
 **Evaniopc/Evaniopc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
