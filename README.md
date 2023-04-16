@@ -1,4 +1,4 @@
-## Olá, my friends 👋
+## Olá, my friends 🤟
 
 - 🌱 Eu estou aprendento Python
 
@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 
 
 ![Evaniopc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evaniopc&count_private=true&show_icons=true&theme=vision-friendly-dark)
+
+<div>  
+  <a href="https://www.instagram.com/evaniopc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+  
+</div>
